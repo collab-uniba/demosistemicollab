@@ -1,6 +1,4 @@
 demosistemicollab
 =================
 
-Demo con Git
-
-LA MODIFICA
+Repo for a Demo with  Git and GitHub

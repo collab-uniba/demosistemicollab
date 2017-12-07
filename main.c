@@ -34,7 +34,8 @@ int main(int argc, char *argv[]) {
 	
    /**
     * Definizione dei test array
-    * NOTA – L’ORDINE DI INSERIMENTO E’ IMPORTANTE 
+    * NOTA – L’ORDINE DI INSERIMENTO E’ IMPORTANTE
+    * Linea aggiunta
     */ 
     CU_TestInfo test_array_dummy[] = {
       { "test di xyz()", test_xyz },
